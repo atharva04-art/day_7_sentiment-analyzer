@@ -21,7 +21,7 @@ This project uses Hugging Face Transformers (`distilBERT`) to perform **sentimen
 
 ## 📸 Preview
 
-![Sentiment Bar Chart](screenshot.png) <!-- Replace with your screenshot filename -->
+![Sentiment Bar Chart](Screenshot 2025-07-08 134955.png)
 
 ## 🚀 How to Run
 
